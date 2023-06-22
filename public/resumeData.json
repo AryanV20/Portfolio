@@ -1,0 +1,172 @@
+{
+  "main": {
+    "name":"Aryan Vishwakarma",
+    "occupation":"Full Stack Developer & Coder",
+    "description":" Hey !! There, I am Aryan .An EE undergrad from NIT Agartala",
+    "image":"profilepic.jpg",
+    "bio":"Hey !! There, I am Aryan .An EE undergrad from NIT Agartala. I love Coding 🧑🏻‍💻 ,Gaming 🎮 and keen of learning new things.Currently I am Learning MERN Stack and doing Competetive Coding.I am super active on Social media ,love sharing memes"
+    ,
+    "contactmessage":"Wanna get in touch to hire or collaborate Contact me here.",
+    "email": "aryan2052001@gmail.com",
+    "phone": "8871242435",
+    "address":{
+      "street":"",
+      "city":"Madhya Pradesh",
+      "state":",INDIA",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1dLdppenZsWn7gj4mXy1O51n79hQ8AFcP/view?usp=drive_link",
+    "social":[
+     
+      {
+        "name":"github",
+        "url":"http://github.com/AryanV20",
+        "className":"fa fa-github"
+      }, {
+        "name":"facebook",
+        "url":"https://www.facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/",
+        "className":"fa fa-twitter"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/aryan-vishwakarma-9594381b5",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/aryanv70",
+        "className":"fa fa-instagram"
+      }
+      
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"Always Learning New Technologies!! Here's some of my skills",
+    
+    
+    "skills":[
+      {
+        "name":"React-Native",
+        "level":"60%"
+      },
+      
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5,CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Express",
+        "level":"60%"
+      },
+      {
+        "name":"Node",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      
+      
+      {
+        "title":"FixIt ",
+        "category":"A React Native App to connect small scale workers to the world",
+        "image":"fixit2.jpg",
+        "url":"https://github.com/aryanmonger20/FixIt"
+      },
+      {
+        "title":"We Travel",
+        "category":"A Travel Social Website for travel enthusiasts",
+        "image":"wettr.jpeg",
+        "url":"https://fierce-wildwood-24965.herokuapp.com/"
+      },
+      {
+        "title":"CodeBash",
+        "category":"CodeBash is a facebook messenger bot in the form of a facebook page which helps us to get notified about all the Hackathons,Coding Contest etc ",
+        "image":"cbash.jpg",
+        "url":"https://codebash-web.herokuapp.com/"
+      },
+      {
+        "title":"Anime BlogSite",
+        "category":"A Blogsite for Anime Lovers",
+        "image":"blogss.jpeg",
+        "url":"https://spooky-cemetery-32975.herokuapp.com/blogs"
+      },
+      
+      {
+        "title":"Whatsapp Clone",
+        "category":"A MERN Clone Of Whatsapp",
+        "image":"whatsapp.jpeg",
+        "url":"https://github.com/aryanmonger20/LetsChat"
+      },
+      {
+        "title":"Birthday Animation for wishing friends",
+        "category":"A Happy Birthday animation design in CSS3, HTML5,Jquery.",
+        "image":"bday.jpg",
+        "url":"https://aryanmonger20.github.io/HAPPY-BDAY-/"
+      },
+      
+      {
+        "title":"Smiley Animation",
+        "category":"A CSS based Smiley which follows you !!!",
+        "image":"smiley.png",
+        "url":"https://jovial-gates-688bdb.netlify.app"
+      },
+
+      
+   
+      {
+        "title":" WeatherApp",
+        "category":"React based PWA Weather search app.",
+        "image":"screen2.png",
+        "url":"https://github.com/aryanmonger20/WeatherApp"
+      }
+    ]
+  },
+  "cards":{
+    "projects": [
+      {
+        "title":"GitHub",
+        "category":"",
+        "image":"i9.jpg",
+        "url":"https://github.com/AryanV20"
+      },
+      {
+        "title":"Leetcode",
+        "category":"",
+        "image":"leetcode.jpeg",
+        "url":"https://leetcode.com/aryan_vish104"
+      },
+      {
+        "title":"Codechef",
+        "category":"",
+        "image":"i10.jpg",
+        "url":"https://www.codechef.com/users/aryan2uee104"
+      },
+      
+      {
+        "title":"GeeksforGeeks",
+        "category":"",
+        "image":"gff.jpeg",
+        "url":"https://auth.geeksforgeeks.org/user/aryan2052001/"
+      }
+      
+    ]
+  }
+}
